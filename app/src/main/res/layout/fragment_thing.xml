@@ -64,7 +64,7 @@
         tools:text="WED NOV 07 12:34 EST 2021" />
 
     <CheckBox
-        android:id="@+id/found_flag"
+        android:id="@+id/found_flag_checkbox"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/thing_found_label"
